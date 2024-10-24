@@ -1,0 +1,19 @@
+* {
+	color: #333;
+}
+body {
+	background-image: url("/media/cover.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1,
+h3 {
+	color: white;
+}
+.auth-container {
+	filter: none !important;
+}
+
+button {
+	background-color: #007bff !important;
+}
